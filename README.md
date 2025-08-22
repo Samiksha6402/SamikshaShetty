@@ -1,7 +1,7 @@
 API Performance & Failure Analysis Dashboard
 <p float="left">
-  <img src="dashboard.png" width="23%" alt="dashboard" />
-  <img src="heatmap.png" width="23%" alt="heatmap" />
+  <img src="api_performance_dashboard/dashboard.png" width="23%" alt="dashboard" />
+  <img src="api_performance_dashboard/heatmap.png" width="23%" alt="heatmap" />
 </p>
 [Description]
 
